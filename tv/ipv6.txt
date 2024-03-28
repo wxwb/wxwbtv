@@ -44,8 +44,10 @@ CCTV-16,http://[2409:8087:7001:20:3::9]:80/dbiptv.sn.chinamobile.com/PLTV/888888
 CCTV-17,http://[2409:8087:7001:20:3::5]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/index.m3u8
 CCTV-8K,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2020603421.m3u8
 
-CCTV4K,https://cloud.lxweb.cn/f/OdZeFb/%E6%88%91.mp4
-CCTV4K,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
+CCTV-4k,https://www.sxtv.top/cctv.php?id=cctv4k
+CCTV-8k,https://www.sxtv.top/cctv.php?id=cctv8k
+CCTV-4K,https://cloud.lxweb.cn/f/OdZeFb/%E6%88%91.mp4
+CCTV-4K,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 
 卫视高清,#genre#
 湖南卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
