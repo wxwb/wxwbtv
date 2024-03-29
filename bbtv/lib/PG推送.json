@@ -1,0 +1,17 @@
+{
+"token":"https://xuan.codered.cloud/tv/altoken.txt",
+"open_token":"",
+"thread_limit":64,
+"quark_thread_limit":10,
+"vod_flags":"4kz|4k|auto",
+"is_vip":true,
+"vip_thread_limit":1,
+"quark_flags":"4kz|auto",
+"quark_is_vip":true,
+"aliproxy":"",
+"proxy":"",
+"open_api_url":"https://aliyundrive-oauth.messense.me/oauth/access_token",
+"danmu":true,
+"quark_danmu":true,
+"quark_cookie":"_UP_A4A_11_=wb9051d337aa4faf9227f9dfe4634248; _UP_D_=pc; __pus=1b1c9d14ca339a25ec06a5f67bcfd891AAQnhpVSzi/X09skk/lJXJKbFfZWUbq82F133TeyLn1Kp/cIUKjivsTkNP1cz2ETVPP1z3lDAWB9xeH3jciRA8OE; __kp=7292af30-a634-11ee-8d8e-970100194ca3; __kps=AATbc0O0YnI13eZHJj7dzhYw; __ktd=fARsvoLbceLYGRY1dFx4+A==; __uid=AATbc0O0YnI13eZHJj7dzhYw; __puus=0d0ade7a2ce1fa864c9ff1fa91deed7bAARVvBzBliXySjhqmF27SzjbqqoBS4yqq6O58StAQxdcD/VgshAIH73xmLUzsheOk/6pRGvNmYY/9NKbvf2GhtF9kdJGDCkxYnw3Sh/edSCx2TqGG0tpZ0axLM5MAPieBPD5XUhWUImoyqLvXtK0HAY69k4G+6sw2UOhLrs7+1kyKzE9sUZIuyDH1uN44ooPgJdZ5Hxgd0+zHma+gOx5v3J8"
+}
