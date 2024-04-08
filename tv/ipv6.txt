@@ -1,64 +1,64 @@
 央视高清,#genre#
-CCTV-1 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-CCTV-2 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-CCTV-3 综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-CCTV-4 中文国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-CCTV-5 体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-CCTV-5+ 体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-CCTV-6 电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-CCTV-7 国防军事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-CCTV-8 电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-CCTV-9 纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-CCTV-10 科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-CCTV-11 戏曲,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
-CCTV-12 社会与法,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-CCTV-13 新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
-CCTV-14 少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-CCTV-15 音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
-CCTV-16 奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-CCTV-17 农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+CCTV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV-2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+CCTV-3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV-5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV-5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV-6 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV-7,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV-8 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV-9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV-10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+CCTV-11,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+CCTV-12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV-13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+CCTV-14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+CCTV-15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+CCTV-16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CETV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV-2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-CCTV4K超高清,http://dp.sxtv.top:88/live/gudou.php?id=cctv4k
+CCTV4K高清,http://dp.sxtv.top:88/live/gudou.php?id=cctv4k
 
-CCTV1 综合,http://dp.sxtv.top:88/live/gudou.php?id=cctv1
-CCTV1 综合,http://dp.sxtv.top:88/live/gudou.php?id=cctv1hd
-CCTV2 财经,http://dp.sxtv.top:88/live/gudou.php?id=cctv2
-CCTV2 财经,http://dp.sxtv.top:88/live/gudou.php?id=cctv2hd
-CCTV3 综艺,http://dp.sxtv.top:88/live/gudou.php?id=cctv3
-CCTV3 综艺,http://dp.sxtv.top:88/live/gudou.php?id=cctv3hd
-CCTV4 中文国际,http://dp.sxtv.top:88/live/gudou.php?id=cctv4
-CCTV4 中文国际,http://dp.sxtv.top:88/live/gudou.php?id=cctv4hd
-CCTV4 中文国际F,http://dp.sxtv.top:88/live/gudou.php?id=cctv4fhd
-CCTV5 体育,http://dp.sxtv.top:88/live/gudou.php?id=cctv5
-CCTV5 体育,http://dp.sxtv.top:88/live/gudou.php?id=cctv5hd
-CCTV5+ 体育赛事,http://dp.sxtv.top:88/live/gudou.php?id=cctv5p
-CCTV5+ 体育赛事,http://dp.sxtv.top:88/live/gudou.php?id=cctv5phd
-CCTV6 电影,http://dp.sxtv.top:88/live/gudou.php?id=cctv6
-CCTV6 电影,http://dp.sxtv.top:88/live/gudou.php?id=cctv6hd
-CCTV7 国防军事,http://dp.sxtv.top:88/live/gudou.php?id=cctv7
-CCTV7 国防军事,http://dp.sxtv.top:88/live/gudou.php?id=cctv7hd
-CCTV8 电视剧,http://dp.sxtv.top:88/live/gudou.php?id=cctv8
-CCTV8 电视剧,http://dp.sxtv.top:88/live/gudou.php?id=cctv8hd
-CCTV9 纪录,http://dp.sxtv.top:88/live/gudou.php?id=cctv9
-CCTV9 纪录,http://dp.sxtv.top:88/live/gudou.php?id=cctv9hd
-CCTV10 科教,http://dp.sxtv.top:88/live/gudou.php?id=cctv10
-CCTV10 科教,http://dp.sxtv.top:88/live/gudou.php?id=cctv10hd
-CCTV11 戏曲,http://dp.sxtv.top:88/live/gudou.php?id=cctv11
-CCTV11 戏曲,http://dp.sxtv.top:88/live/gudou.php?id=cctv11hd
-CCTV12 社会,http://dp.sxtv.top:88/live/gudou.php?id=cctv12
-CCTV12 社会,http://dp.sxtv.top:88/live/gudou.php?id=cctv12hd
-CCTV13 新闻,http://dp.sxtv.top:88/live/gudou.php?id=cctv13
-CCTV13 新闻,http://dp.sxtv.top:88/live/gudou.php?id=cctv13hd
-CCTV14 少儿,http://dp.sxtv.top:88/live/gudou.php?id=cctv14
-CCTV14 少儿,http://dp.sxtv.top:88/live/gudou.php?id=cctv14hd
-CCTV15 音乐,http://dp.sxtv.top:88/live/gudou.php?id=cctv15
-CTV15 音乐,http://dp.sxtv.top:88/live/gudou.php?id=cctv15hd
-CCTV16 奥林匹克,http://dp.sxtv.top:88/live/gudou.php?id=cctv16
-CCTV16 奥林匹克4K,http://dp.sxtv.top:88/live/gudou.php?id=cctv164k
-CCTV17 农村农业,http://dp.sxtv.top:88/live/gudou.php?id=cctv17
-CCTV117 农村农业,http://dp.sxtv.top:88/live/gudou.php?id=cctv17hd
+CCTV1,http://dp.sxtv.top:88/live/gudou.php?id=cctv1
+CCTV1,http://dp.sxtv.top:88/live/gudou.php?id=cctv1hd
+CCTV2,http://dp.sxtv.top:88/live/gudou.php?id=cctv2
+CCTV2,http://dp.sxtv.top:88/live/gudou.php?id=cctv2hd
+CCTV3,http://dp.sxtv.top:88/live/gudou.php?id=cctv3
+CCTV3,http://dp.sxtv.top:88/live/gudou.php?id=cctv3hd
+CCTV4,http://dp.sxtv.top:88/live/gudou.php?id=cctv4
+CCTV4,http://dp.sxtv.top:88/live/gudou.php?id=cctv4hd
+CCTV4,http://dp.sxtv.top:88/live/gudou.php?id=cctv4fhd
+CCTV5,http://dp.sxtv.top:88/live/gudou.php?id=cctv5
+CCTV5,http://dp.sxtv.top:88/live/gudou.php?id=cctv5hd
+CCTV5+,http://dp.sxtv.top:88/live/gudou.php?id=cctv5p
+CCTV5+,http://dp.sxtv.top:88/live/gudou.php?id=cctv5phd
+CCTV6,http://dp.sxtv.top:88/live/gudou.php?id=cctv6
+CCTV6,http://dp.sxtv.top:88/live/gudou.php?id=cctv6hd
+CCTV7,http://dp.sxtv.top:88/live/gudou.php?id=cctv7
+CCTV7,http://dp.sxtv.top:88/live/gudou.php?id=cctv7hd
+CCTV8,http://dp.sxtv.top:88/live/gudou.php?id=cctv8
+CCTV8,http://dp.sxtv.top:88/live/gudou.php?id=cctv8hd
+CCTV9,http://dp.sxtv.top:88/live/gudou.php?id=cctv9
+CCTV9,http://dp.sxtv.top:88/live/gudou.php?id=cctv9hd
+CCTV10,http://dp.sxtv.top:88/live/gudou.php?id=cctv10
+CCTV10,http://dp.sxtv.top:88/live/gudou.php?id=cctv10hd
+CCTV11,http://dp.sxtv.top:88/live/gudou.php?id=cctv11
+CCTV11,http://dp.sxtv.top:88/live/gudou.php?id=cctv11hd
+CCTV12,http://dp.sxtv.top:88/live/gudou.php?id=cctv12
+CCTV12,http://dp.sxtv.top:88/live/gudou.php?id=cctv12hd
+CCTV13,http://dp.sxtv.top:88/live/gudou.php?id=cctv13
+CCTV13,http://dp.sxtv.top:88/live/gudou.php?id=cctv13hd
+CCTV14,http://dp.sxtv.top:88/live/gudou.php?id=cctv14
+CCTV14,http://dp.sxtv.top:88/live/gudou.php?id=cctv14hd
+CCTV15,http://dp.sxtv.top:88/live/gudou.php?id=cctv15
+CTV15,http://dp.sxtv.top:88/live/gudou.php?id=cctv15hd
+CCTV16,http://dp.sxtv.top:88/live/gudou.php?id=cctv16
+CCTV16,http://dp.sxtv.top:88/live/gudou.php?id=cctv164k
+CCTV17,http://dp.sxtv.top:88/live/gudou.php?id=cctv17
+CCTV117,http://dp.sxtv.top:88/live/gudou.php?id=cctv17hd
 怀旧剧场,http://dp.sxtv.top:88/live/gudou.php?id=hjjc
 风云剧场,http://dp.sxtv.top:88/live/gudou.php?id=fyjc
 风云音乐,http://dp.sxtv.top:88/live/gudou.php?id=fyyy
