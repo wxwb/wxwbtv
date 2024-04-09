@@ -1,4 +1,27 @@
 央视高清,#genre#
+CCTV-1,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
+CCTV-2,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+CCTV-3,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV-4,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV-5,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV-6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV-7,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225671/index.m3u8
+CCTV-8,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225795/index.m3u8
+CCTV-9,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225676/index.m3u8
+CCTV-10 ,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225677/index.m3u8
+CCTV-11,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
+CCTV-12,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225669/index.m3u8
+CCTV-13,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+CCTV-14,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225674/index.m3u8
+CCTV-15,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
+CCTV-16,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225893/index.m3u8
+CCTV-17,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+CETV-1,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001063/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CETV-2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001064/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CETV-3,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CETV-4,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001308/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
 CCTV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV-3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
@@ -21,9 +44,9 @@ CETV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV-2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
-CCTV-4k,http://dp.sxtv.top:88/live/gudou.php?id=cctv4k
-CCTV-4k,https://www.sxtv.top/cctv.php?id=cctv4k
-CCTV-8k,https://www.sxtv.top/cctv.php?id=cctv8k
+CCTV-4k,https://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+CCTV-4k,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+CCTV-8K 超高清,https://tv.cry33.com/ys4k.php?id=8k
 
 卫视高清,#genre#
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
