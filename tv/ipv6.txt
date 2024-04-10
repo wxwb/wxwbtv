@@ -42,9 +42,12 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
 CCTV-4k,https://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 CCTV-4k,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+CCTV-8k,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 CCTV-8k,https://tv.cry33.com/ys4k.php?id=8k
 CCTV-4k,https://www.sxtv.top/cctv.php?id=cctv4k
 CCTV-8k,https://www.sxtv.top/cctv.php?id=cctv8k
+CCTV-16,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
+
 
 卫视高清,#genre#
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
