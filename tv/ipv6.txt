@@ -138,6 +138,11 @@ CCTV-8k,https://www.sxtv.top/cctv.php?id=cctv8k
 凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 CGNT 新闻频道,http://live.cgtn.com/1000/prog_index.m3u8
+凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+TVB翡翠台,https://iptv.hiper25.com/TVB/video.m3u8
+TVB明珠台,https://iptv.hiper25.com/Pearl/video.m3u8
+澳视澳门,https://iptv.hiper25.com/TDM/video.m3u8
 
 地方特色,#genre#
 rRB-影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8
