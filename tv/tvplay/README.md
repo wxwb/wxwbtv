@@ -1,7 +1,5 @@
 # tvplay-config
 
-tvplay项目 <https://github.com/pharaoh2012/tvplay> 的配置网址
-
 ## 频道配置文件:`config.txt`
 
 频道配置文件，一行一个播放地址。
