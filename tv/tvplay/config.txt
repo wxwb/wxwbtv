@@ -1,5 +1,6 @@
 https://tv.cctv.com/live/cctv1/m/
 https://tv.cctv.com/live/cctv2/m/
+https://tv.cctv.com/live/cctv3/
 https://tv.cctv.com/live/cctv4/m/
 https://tv.cctv.com/live/cctv5/m/
 https://tv.cctv.com/live/cctv7/m/
@@ -11,3 +12,6 @@ https://tv.cctv.com/live/cctv13/m/
 https://tv.cctv.com/live/cctvchild/m/
 https://tv.cctv.com/live/cctv15/m/
 https://tv.cctv.com/live/cctv16/m/
+https://tv.cctv.com/live/cctv17/m/
+https://tv.cctv.com/live/cctveurope/m/
+https://tv.cctv.com/live/cctvamerica/m/
