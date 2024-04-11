@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>今日说法</title>
+</head>
+<body>
+    
+<script>
+    function toast(msg) {
+        try {
+            AndroidJs.toast(msg);
+        } catch (error) {
+            console.warn(msg);
+        }
+      }
+    // https://api.cntv.cn/NewVideo/getVideoListByColumn?id=TOPC1451464665008914&n=20&sort=desc&p=1&mode=0&serviceId=tvcctv&cb=Callback
+    function Callback(data) {
+        let hash = location.hash;
+        let index = 0;
+        if(hash) {
+            index = +hash.substr(1);
+        }
+        let tv = data.data.list[index];
+        toast(tv.title);
+        location.href = tv.url;
+        //console.log(data.data.list[index])
+    }
+</script>
+<script src="https://api.cntv.cn/NewVideo/getVideoListByColumn?id=TOPC1451464665008914&n=20&sort=desc&p=1&mode=0&serviceId=tvcctv&cb=Callback"></script>
+</body>
+</html>
