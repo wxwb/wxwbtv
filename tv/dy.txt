@@ -1,4 +1,15 @@
 涛哥影院,#genre#
+电影_快意江湖,http://cfss.cc/cdn/hy/11342435.flv
+电影_快意江湖,https://live.metshop.top/huya/11342435
+电影_快意江湖,https://www.goodiptv.club/huya/11342435
+电影_武侠,http://cfss.cc/cdn/hy/11342427.flv
+电影_武侠,https://live.metshop.top/huya/11342427
+电影_古装片,http://cfss.cc/cdn/hy/11336590.flv
+电影_古装片,https://live.metshop.top/huya/11336590
+电影_古装片,https://www.goodiptv.club/huya/11336590
+电影_星爷,http://cfss.cc/cdn/hy/11342412.flv
+电影_星爷,https://live.metshop.top/huya/11342412
+电影_星爷,https://www.goodiptv.club/huya/11342412
 电影 古惑仔全集,https://live.metshop.top/yy/1354507447
 电影_不挤影院,http://cfss.cc/cdn/hy/11352897.flv
 电影_不挤影院,https://live.metshop.top/huya/11352897
@@ -25,12 +36,6 @@
 电影_变形金刚,https://www.goodiptv.club/huya/21059596
 电影_古墓系列,http://cfss.cc/cdn/hy/11352913.flv
 电影_古墓系列,https://www.goodiptv.club/huya/11352913
-电影_古装片,http://cfss.cc/cdn/hy/11336590.flv
-电影_古装片,https://live.metshop.top/huya/11336590
-电影_古装片,https://www.goodiptv.club/huya/11336590
-电影_星爷,http://cfss.cc/cdn/hy/11342412.flv
-电影_星爷,https://live.metshop.top/huya/11342412
-电影_星爷,https://www.goodiptv.club/huya/11342412
 电影_周星星,http://cfss.cc/cdn/hy/11336587.flv
 电影_周星星,https://live.metshop.top/huya/11336587
 电影_周星星,https://www.goodiptv.club/huya/11336587
@@ -61,9 +66,6 @@
 电影_强森,http://cfss.cc/cdn/hy/21059581.flv
 电影_强森,https://live.metshop.top/huya/21059581
 电影_强森,https://www.goodiptv.club/huya/21059581
-电影_快意江湖,http://cfss.cc/cdn/hy/11342435.flv
-电影_快意江湖,https://live.metshop.top/huya/11342435
-电影_快意江湖,https://www.goodiptv.club/huya/11342435
 电影_怪兽,http://cfss.cc/cdn/hy/21059577.flv
 电影_怪兽,https://live.metshop.top/huya/21059577
 电影_怪兽,https://www.goodiptv.club/huya/21059577
@@ -108,8 +110,6 @@
 电影_欢笑影院,http://cfss.cc/cdn/hy/11352894.flv
 电影_欢笑影院,https://live.metshop.top/huya/11352894
 电影_欢笑影院,https://www.goodiptv.club/huya/11352894
-电影_武侠,http://cfss.cc/cdn/hy/11342427.flv
-电影_武侠,https://live.metshop.top/huya/11342427
 电影_死神来了,http://cfss.cc/cdn/hy/11352903.flv
 电影_死神来了,https://live.metshop.top/huya/11352903
 电影_死神来了,https://www.goodiptv.club/huya/11352903
