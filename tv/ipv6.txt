@@ -163,6 +163,10 @@ CCTV-8K,https://www.sxtv.top/cctv.php?id=cctv8k
 国际时事,#genre#
 凤凰资讯,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰中文,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+文旅香港,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
+文旅香港,http://ali-play.lezhibo.com:80/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
+无线星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+无线娱乐,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 CGNT 新闻频道,http://live.cgtn.com/1000/prog_index.m3u8
 凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
