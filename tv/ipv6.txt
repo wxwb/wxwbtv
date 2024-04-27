@@ -161,8 +161,8 @@ CCTV-8K,https://www.sxtv.top/cctv.php?id=cctv8k
 黑莓电影,http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 
 国际时事,#genre#
-凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰资讯,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰中文,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 CGNT 新闻频道,http://live.cgtn.com/1000/prog_index.m3u8
 凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
