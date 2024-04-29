@@ -1,4 +1,4 @@
-💓涛哥推荐,#genre#
+涛哥推荐,#genre#
 👉全网,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8#http://120.7.30.152:2024/live/CCTV1高清/index.m3u8
 👉移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 👉电信,http://219.147.200.9:18080/newlive/live/hls/1/live.m3u8
@@ -9,7 +9,7 @@
 陈慧娴 谁可改变,https://vd4.bdstatic.com/mda-pe8mpintgpb8dgjz/sc/cae_h264/1683686453932813197/mda-pe8mpintgpb8dgjz.mp4
 《宝丽金20周年群星演唱会完整版》,https://vd3.bdstatic.com/mda-pbp4sapcn5kmpxhg/sc/cae_h264/1677214872183868613/mda-pbp4sapcn5kmpxhg.mp4
 
-🖥央视频道,#genre#
+央视频道,#genre#
 CCTV1,http://4170.hsmedia.top:8080/newlive/live/hls/1/live.m3u8
 CCTV2,http://4170.hsmedia.top:8080/newlive/live/hls/2/live.m3u8
 CCTV3,http://4170.hsmedia.top:8080/newlive/live/hls/3/live.m3u8
@@ -43,7 +43,7 @@ CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
-🌃卫视直播,#genre#
+卫视直播,#genre#
 湖南卫视,http://4170.hsmedia.top:8080/newlive/live/hls/18/live.m3u8
 东方卫视,http://4170.hsmedia.top:8080/newlive/live/hls/19/live.m3u8
 江苏卫视,http://4170.hsmedia.top:8080/newlive/live/hls/20/live.m3u8
@@ -145,7 +145,7 @@ IHOT科幻,http://4170.hsmedia.top:8080/newlive/live/hls/66/live.m3u8
 山东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
 重庆卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
 
-🔱少儿频道,#genre#
+少儿频道,#genre#
 卡酷少儿,http://dp.sxtv.top:88/live/bestv.php?id=kkse
 金鹰卡通,http://dp.sxtv.top:88/live/bestv.php?id=jykt
 哈哈炫动,http://dp.sxtv.top:88/live/bestv.php?id=hhxd
@@ -211,7 +211,7 @@ IHOT科幻,http://4170.hsmedia.top:8080/newlive/live/hls/66/live.m3u8
 内蒙古少儿,http://110.16.65.6:8888/newlive/live/hls/56/live.m3u8
 少儿卡酷,http://110.16.65.6:8888/newlive/live/hls/57/live.m3u8
 
-🎞️涛哥影院,#genre#
+涛哥影院,#genre#
 电影 古惑仔全集,https://live.metshop.top/yy/1354507447
 电影_不挤影院,http://cfss.cc/cdn/hy/11352897.flv
 电影_不挤影院,https://live.metshop.top/huya/11352897
@@ -1581,7 +1581,7 @@ yoo,https://live.metshop.top/huya/11352876
 龙小七a,https://live.metshop.top/huya/24654627
 龙虾电影,https://live.metshop.top/huya/27742234
 
-📢历年春晚,#genre#
+历年春晚,#genre#
 2021年,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
 2022年,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
 2023年,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
@@ -1616,7 +1616,7 @@ yoo,https://live.metshop.top/huya/11352876
 春晚2022,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
 春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 
-YY电影轮播,#genre#
+电影轮播,#genre#
 超级鬼片,https://lunbo.freetv.top/yy/1355641195
 经典鬼片,https://lunbo.freetv.top/yy/29460894
 恐怖电影,https://lunbo.freetv.top/yy/24066336
@@ -1703,7 +1703,7 @@ CCTV-戏曲台,http://fzcds.cn:8822/hls/74/index.m3u8
 贝爷max✔原,http://159.75.85.63:35455/douyu/4332
 贝爷影厅✔原,http://159.75.85.63:35455/douyu/252802
 
-🇨🇳车载｜D  J,#genre#
+车载｜D  J,#genre#
 热火斯卡拉,https://vd4.bdstatic.com/mda-nk3qfbxhf5dqpywt/sc/cae_h264/1667582665910576925/mda-nk3qfbxhf5dqpywt.mp4
 包房专嗨音乐视频-车载DJ音乐精品美女热舞DJ视频,http://listen.92kk.com:8811//2020/车载视频/2020-08/2020-08-22/[Mp4]三月里的小雨-王恰恰-车载DJ音乐精品美女热舞DJ视频[独].mp4
 抖音热播榜私货旋律慢摇音乐-车载DJ音乐精品美女热舞DJ视频,http://listen.92kk.com:8811//2020/车载视频/2020-03/2020-03-09/[Mp4]风小筝-别丢下我不管-车载DJ音乐精品美女热舞DJ视频[独].mp4
@@ -2146,7 +2146,7 @@ DJ情歌《昨夜的我又梦到了你》《心上的人儿你在哪》等HD,htt
 七首DJ情歌《拈花一笑》《对面的小姐姐》《想你了小哥哥》等FHD[1920*1080],https://vdse.bdstatic.com//ed10354ac1acc37c9922074fd88d3697.mp4
 七首DJ情歌《拈花一笑》《对面的小姐姐》《想你了小哥哥》等FHD[1920*1080],https://vdse.bdstatic.com//ed10354ac1acc37c9922074fd88d3697.mp4
 
-🇨🇳抒情｜情歌,#genre#
+抒情｜情歌,#genre#
 纸短情长,https://vdse.bdstatic.com//e214194bf6de7f598b9873619b691fa6.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T13%3A26%3A53Z%2F-1%2Fhost
 讲真的,https://vdse.bdstatic.com//9145a29aecbbf594c5b21ab1e6b14d20.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A46%3A15Z%2F-1%2Fhost
 陈柯宇生僻字,http://vd2.bdstatic.com/mda-jb28qp6tauzkzpy9/hd/mda-jb28qp6tauzkzpy9.mp4
