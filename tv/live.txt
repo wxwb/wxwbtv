@@ -212,6 +212,19 @@ IHOT科幻,http://4170.hsmedia.top:8080/newlive/live/hls/66/live.m3u8
 少儿卡酷,http://110.16.65.6:8888/newlive/live/hls/57/live.m3u8
 
 涛哥影院,#genre#
+电影_快意江湖,http://cfss.cc/cdn/hy/11342435.flv
+电影_快意江湖,https://live.metshop.top/huya/11342435
+电影_快意江湖,https://www.goodiptv.club/huya/11342435
+电影_喜乐影院,http://cfss.cc/cdn/hy/21059580.flv
+电影_喜乐影院,https://live.metshop.top/huya/21059580
+电影_喜乐影院,https://www.goodiptv.club/huya/21059580
+电影_喜剧,http://cfss.cc/cdn/hy/11352877.flv
+电影_喜剧,https://live.metshop.top/huya/11352877
+电影_喜剧,https://www.goodiptv.club/huya/11352877
+电影_喜剧专场,http://cfss.cc/cdn/hy/11602044.flv
+电影_喜剧专场,https://live.metshop.top/huya/11602044
+电影_喜剧专场,https://www.goodiptv.club/huya/11602044
+电影_怪兽,http://cfss.cc/cdn/hy/21059577.flv
 电影 古惑仔全集,https://live.metshop.top/yy/1354507447
 电影_不挤影院,http://cfss.cc/cdn/hy/11352897.flv
 电影_不挤影院,https://live.metshop.top/huya/11352897
@@ -246,15 +259,6 @@ IHOT科幻,http://4170.hsmedia.top:8080/newlive/live/hls/66/live.m3u8
 电影_周星星,https://www.goodiptv.club/huya/11336587
 电影_周海媚,http://cfss.cc/cdn/hy/11279247.flv
 电影_周海媚,https://www.goodiptv.club/huya/11279247
-电影_喜乐影院,http://cfss.cc/cdn/hy/21059580.flv
-电影_喜乐影院,https://live.metshop.top/huya/21059580
-电影_喜乐影院,https://www.goodiptv.club/huya/21059580
-电影_喜剧,http://cfss.cc/cdn/hy/11352877.flv
-电影_喜剧,https://live.metshop.top/huya/11352877
-电影_喜剧,https://www.goodiptv.club/huya/11352877
-电影_喜剧专场,http://cfss.cc/cdn/hy/11602044.flv
-电影_喜剧专场,https://live.metshop.top/huya/11602044
-电影_喜剧专场,https://www.goodiptv.club/huya/11602044
 电影_国产,http://cfss.cc/cdn/hy/11352973.flv
 电影_国产,https://live.metshop.top/huya/11352973
 电影_国产,https://www.goodiptv.club/huya/11352973
@@ -271,10 +275,6 @@ IHOT科幻,http://4170.hsmedia.top:8080/newlive/live/hls/66/live.m3u8
 电影_强森,http://cfss.cc/cdn/hy/21059581.flv
 电影_强森,https://live.metshop.top/huya/21059581
 电影_强森,https://www.goodiptv.club/huya/21059581
-电影_快意江湖,http://cfss.cc/cdn/hy/11342435.flv
-电影_快意江湖,https://live.metshop.top/huya/11342435
-电影_快意江湖,https://www.goodiptv.club/huya/11342435
-电影_怪兽,http://cfss.cc/cdn/hy/21059577.flv
 电影_怪兽,https://live.metshop.top/huya/21059577
 电影_怪兽,https://www.goodiptv.club/huya/21059577
 电影_怪兽系列,http://cfss.cc/cdn/hy/21059554.flv
