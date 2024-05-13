@@ -425,19 +425,6 @@ iHOT爱动漫,http://[2409:8087:5e08:24::12]:6610/000000001000/20000000040000000
 经典鬼片,https://lunbo.freetv.top/yy/29460894
 恐怖电影,https://lunbo.freetv.top/yy/24066336
 
-CCtv6影院代,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
-豆瓣高分@代,http://43.138.170.29:35455/douyu/8770422
-下饭神剧@代,http://43.138.170.29:35455/douyu/276200
-大吉大利影院,https://pull.kktv8.com/livekktv/128600025.flv
-神乐影院-1台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
-神乐影院-2台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
-小猪优版剧院,https://www.goodiptv.club/douyu/10297898
-公众号天微科技,https://www.goodiptv.club/douyu/10297898
-绍兴影院频道,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-南京影院频道,http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
-平泉影院频道,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
-新昌休闲影院,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-
 刘德华,http://43.138.170.29:35455/yy/1382745111
 周星驰,http://43.138.170.29:35455/yy/1354658049
 周星驰,http://43.138.170.29:35455/yy/1382736808
@@ -458,3 +445,16 @@ CCtv6影院代,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 大话西游,http://43.138.170.29:35455/yy/1382851590
 经典鬼片2,http://43.138.170.29:35455/yy/1355641195
 武侠港片,http://43.138.170.29:35455/yy/1451866697
+
+CCtv6影院代,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
+豆瓣高分@代,http://43.138.170.29:35455/douyu/8770422
+下饭神剧@代,http://43.138.170.29:35455/douyu/276200
+大吉大利影院,https://pull.kktv8.com/livekktv/128600025.flv
+神乐影院-1台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
+神乐影院-2台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
+小猪优版剧院,https://www.goodiptv.club/douyu/10297898
+公众号天微科技,https://www.goodiptv.club/douyu/10297898
+绍兴影院频道,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+南京影院频道,http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
+平泉影院频道,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
+新昌休闲影院,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
