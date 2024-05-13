@@ -425,16 +425,7 @@ iHOT爱动漫,http://[2409:8087:5e08:24::12]:6610/000000001000/20000000040000000
 经典电影1,http://43.138.170.29:35455/yy/1450556636
 经典电影2,http://43.138.170.29:35455/yy/1354889048
 
-邵氏影院@代,http://43.138.170.29:35455/douyu/4246519
-邵氏影院@代,http://epg.112114.xyz/douyu/4246519
 CCtv6影院代,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
-战争电影@代,https://live.metshop.top/yy/1382736865
-豆瓣电影@代,http://diyp.112114.xyz/douyu/8770422
-重温经典@代,http://1.62.64.80/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
-重温经典@代,http://1.62.64.234/2d07c55520f72f74e7a4710c981d91e2.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
-重温经典@代,http://111.31.107.123/1.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
-戏曲频道电信,http://182.139.250.132:5033/syhjcms_hls/98000000000000000001681695523229/614400/index.m3u8?playtype=1&usercode=cl@is&cl_cid=98000000000000000001681695523229
-星爷影院@代,http://mmitv.top:80/test/douyu.php?id=122402&u=4654622&cate
 豆瓣高分@代,http://43.138.170.29:35455/douyu/8770422
 下饭神剧@代,http://43.138.170.29:35455/douyu/276200
 大吉大利影院,https://pull.kktv8.com/livekktv/128600025.flv
