@@ -410,8 +410,8 @@ iHOT爱科学,http://[2409:8087:5e08:24::12]:6610/000000001000/20000000040000000
 iHOT爱动漫,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
 
 影院轮播,#genre#
-超级鬼片,https://lunbo.freetv.top/yy/1355641195
 经典鬼片,https://lunbo.freetv.top/yy/29460894
+超级鬼片,https://lunbo.freetv.top/yy/1355641195
 恐怖电影,https://lunbo.freetv.top/yy/24066336
 超级鬼片,https://lunbo.freetv.top/yy/1355641195
 经典鬼片,https://lunbo.freetv.top/yy/29460894
