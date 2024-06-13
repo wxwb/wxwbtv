@@ -1324,7 +1324,7 @@ dj新歌句句在理,https://vd4.bdstatic.com/mda-ncmb65kfdfysdq4g/sc/cae_h264_d
 韩国歌团152,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240151273206.mp4
 韩国歌团153,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389031565.mp4
 
-MV频道,#genre#
+MTV频道,#genre#
 龙梅子-离别的眼泪,http://em.21dtv.com/songs/60145855.mkv
 龙奔-扪心自问,http://em.21dtv.com/songs/60145854.mkv
 龙奔-埋在心里的痛,http://em.21dtv.com/songs/60145853.mkv
