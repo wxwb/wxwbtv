@@ -205,6 +205,7 @@ Bicycle,https://vd2.bdstatic.com/mda-mbirabhun6n01ucc/v1-cae/1080p/mda-mbirabhun
 中国港澳,#genre#
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://hikvision.city:880/fhzx.m3u8
+凤凰中文频道,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰卫视高清,http://113.64.145.195:8081/hls/37/index.m3u8
 凤凰香港高清,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰电影频道,http://117.114.153.25:8180/TV00000000000000000072@HHZT
