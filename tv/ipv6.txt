@@ -202,12 +202,21 @@ Bicycle,https://vd2.bdstatic.com/mda-mbirabhun6n01ucc/v1-cae/1080p/mda-mbirabhun
 黑莓动画,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 黑莓电影,http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 
-国际时事,#genre#
+中国港澳,#genre#
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://hikvision.city:880/fhzx.m3u8
-凤凰资讯高清,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰卫视高清,http://113.64.145.195:8081/hls/37/index.m3u8
 凤凰香港高清,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰电影频道,http://117.114.153.25:8180/TV00000000000000000072@HHZT
+TVB 香港武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+无线娱乐新闻,https://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+星空卫视频道,http://118.112.148.228:4022/rtp/239.93.0.156:2193
+星空卫视频道,http://118.112.148.228:4022/rtp/239.93.1.10:2193
+星空卫视频道,http://118.112.148.228:4022/udp/239.93.0.156:2193
+星空卫视频道,http://125.69.136.119:8880/udp/239.93.0.156:2193
+星空卫视频道,http://giwon.ddns.net:5555/udp/239.93.0.156:2193
+无线星河频道,http://113.64.145.55:8081/hls/135/index.m3u8
+无线星河频道,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 无线娱乐,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 无线娱乐,https://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 无线星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
@@ -220,6 +229,16 @@ Bicycle,https://vd2.bdstatic.com/mda-mbirabhun6n01ucc/v1-cae/1080p/mda-mbirabhun
 TVB翡翠频道,http://58.87.99.251:8090/HK/tvb/hls.m3u8
 无线星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 无线娱乐,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+星空卫视频道,http://iptv.028028.xyz:8/udp/239.93.0.156:2193
+星空卫视频道,http://wouu.net:9977/udp/239.93.0.156:2193
+港臺電影频道,https://epg.pw/stream/9733a9faedac1ecb653defe0c92c8c29c8e1f07b0869bd241b1b2ad7737c1dde.ctv
+STARmovies,http://117.114.153.25:8180/TV00000000000000000075@HHZT
+axn电影频道,http://117.114.153.25:8180/TV00000000000000000076@HHZT
+CINEMAX电影,http://117.114.153.25:8180/TV00000000000000000109@HHZT
+HBO（美）台,http://117.114.153.25:8180/TV00000000000000000074@HHZT
+欧洲华文频道,http://vvlive.eztv.vip/hwetnew/hwetnew.m3u8?auth_key=1710810771-0-0-c5ce71079eaa4d245127b05375ae371f
+Channel[V]台,http://iptv.028028.xyz:8/udp/239.93.0.157:2194
+无线娱乐频道,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 CGNT 新闻频道,http://live.cgtn.com/1000/prog_index.m3u8
 凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
@@ -229,15 +248,6 @@ TVB明珠台,https://iptv.hiper25.com/Pearl/video.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 香港電台(RTHK 34),https://livedoc.cgtn.com/1000d/prog_index.m3u8
 香港卫视文旅,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
-CNN,https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
-BBC,https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-ABC News Live,https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
-Live Now FOX,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-NBC News Now,https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
-Sky News,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
-ABC7 Bay Area,https://i.mjh.nz/SamsungTVPlus/USBC4400010RH.m3u8
-CBS News Bay Area,https://i.mjh.nz/SamsungTVPlus/USBD2700010WB.m3u8
 
 地方特色,#genre#
 湖北卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN911989BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTjwoxLREP8RbFWdRUM4faswoDIwMxbrlyyVy9x6ZDKnEdPk51m%2FYpbAXpN4hljdv%2Fuo7x98HZteEPqTZvSaqAE
