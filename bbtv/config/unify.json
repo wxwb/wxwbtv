@@ -1,0 +1,28 @@
+{
+    "force_refresh":0,
+    "source": "https://gitee.com/wxbtt/bbtv/raw/master/bbtv.json",
+    "app_show_dialog": true,
+    "jar_show_dialog": true,
+    "app_require_password": false,
+    "jar_require_password": true,
+    "app_password": "240420",
+    "jar_password": "240601",
+    "app_message": "蓓蓓影院APP为免费开源项目，仅供测试使用！ \n\n播放时若出现广告均为三方插入, 与【涛哥工作室】无关，请勿上当!",
+    "jar_message": "「涛哥工作室出品」",
+    "filter": [
+        "公众号",
+        "神秘的哥哥们",
+        "|",
+        "｜",
+        "防失联",
+        "关注",
+        "【",
+        "】",
+        "┃ "
+    ],
+    "prefix": "★蓓蓓影院★",
+    "prefix_wolong": "★轩轩影视★",
+    "title": "「涛哥工作室出品」",
+    "picture": "https://gitee.com/wxbtt/bbtv/raw/master/config/Tao.png",
+    "link": "https://www.baidu.com/"
+}
