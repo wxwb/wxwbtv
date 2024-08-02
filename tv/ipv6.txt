@@ -519,8 +519,6 @@ iHOT爱动漫,http://[2409:8087:5e08:24::12]:6610/000000001000/20000000040000000
 
 影院轮播,#genre#
 喜剧电影频道,https://www.goodiptv.club/douyu/9292492
-网神影厅@代,https://www.goodiptv.club/douyu/508118
-电影星爷@代,http://cfss.cc/cdn/hy/11342412.flv
 周星驰典@代,http://tc-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu_2000.m3u8
 周星驰典@代,https://www.goodiptv.club/douyu/3637778
 超级电影ipv6,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
