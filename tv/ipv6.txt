@@ -518,9 +518,9 @@ iHOT爱科学,http://[2409:8087:5e08:24::12]:6610/000000001000/20000000040000000
 iHOT爱动漫,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
 
 影院轮播,#genre#
-喜剧电影频道,https://www.goodiptv.club/douyu/9292492
 周星驰典@代,http://tc-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu_2000.m3u8
 周星驰典@代,https://www.goodiptv.club/douyu/3637778
+喜剧电影频道,https://www.goodiptv.club/douyu/9292492
 小鬼头,http://124.248.69.76:35455/huya/11352963
 刘德华,http://124.248.69.76:35455/huya/11342424
 许冠英,http://124.248.69.76:35455/huya/11601972
