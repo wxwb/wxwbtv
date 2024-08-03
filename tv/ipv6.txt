@@ -457,11 +457,8 @@ rRB-生活,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226526/index.m
 黑龙江少儿,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225979/index.m3u8
 
 涛哥电影,#genre#
-CHC家庭影院,http://tv6.blcu.edu.cn/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/452c80009b-0-0-e2338fa7fa61d532e85364bf7f77a71e/index.m3u8
-CHC高清电影,http://tv6.blcu.edu.cn/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/a51d115379-0-0-2d3f80b098bcb9a30d9368695375926f/index.m3u8
-CHC动作电影,http://tv6.blcu.edu.cn/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/59799779bf-0-0-46589e4cd4a185d126f36ac81a80255f/index.m3u8
-NewTV东北热剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 NewTV中国功夫,http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+NewTV东北热剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 NewTV军旅剧场,http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
 NewTV家庭剧场,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
 NewTV惊悚悬疑,http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
