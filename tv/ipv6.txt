@@ -592,21 +592,6 @@ iHOT爱动漫,http://[2409:8087:5e08:24::12]:6610/000000001000/20000000040000000
 电影_变形金刚,http://zy.otioi.cn/live/huya.php?token=8V1cJL3u&id=21059596
 电影_怪兽系列,http://zy.otioi.cn/live/huya.php?token=8V1cJL3u&id=21059554
 搞笑_陈翔六点半,http://zy.otioi.cn/live/huya.php?token=8V1cJL3u&id=11274154
-yy电影2,http://mmitv.top/pltv/yy.php&id=1382749892
-yy电影3,http://mmitv.top/pltv/yy.php&id=1382735573
-yy电影4,http://mmitv.top/pltv/yy.php&id=24921157
-yy电影6,http://mmitv.top/pltv/yy.php&id=1382736803
-yy电影7,http://mmitv.top/pltv/yy.php&id=1354930924
-yy电影8,http://mmitv.top/pltv/yy.php&id=1382745095
-yy电影9,http://mmitv.top/pltv/yy.php&id=1355171357
-yy电影10,http://mmitv.top/pltv/yy.php&id=24066336
-电影轮播1,http://mmitv.top/pltv/yy.php&id=1382749892
-电影轮播2,http://mmitv.top/pltv/yy.php&id=1382735573
-电影轮播3,http://mmitv.top/pltv/yy.php&id=24921157
-电影轮播4,http://mmitv.top/pltv/yy.php&id=1382736803
-电影轮播5,http://mmitv.top/pltv/yy.php&id=1382745095
-电影轮播6,http://mmitv.top/pltv/yy.php&id=1355171357
-电影轮播7,http://mmitv.top/pltv/yy.php&id=24066336
 
 周星驰典@代,http://tc-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu_2000.m3u8
 周星驰典@代,https://www.goodiptv.club/douyu/3637778
