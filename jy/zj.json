@@ -244,7 +244,7 @@
     },
     {
       "key": "push_agent",
-      "name": "公众号：七星影仓",
+      "name": "涛哥智教",
       "type": 3,
       "api": "csp_PushAgent",
       "playerType": "1",
@@ -259,7 +259,7 @@
       "url": "Web"
     },
     {
-      "name": "-天微科技1-",
+      "name": "-涛哥工作室1-",
       "type": 0,
       "url": "https://jx.xyflv.cc/?url=",
       "ext": {
@@ -270,7 +270,7 @@
       }
     },
     {
-      "name": "-天微科技2-",
+      "name": "-涛哥工作室2-",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
@@ -280,7 +280,7 @@
       }
     },
     {
-      "name": "-天微科技3-",
+      "name": "-涛哥工作室3-",
       "type": 0,
       "url": "https://jx.zhanlangbu.com/?url=",
       "ext": {
@@ -311,7 +311,7 @@
       }
     },
     {
-      "name": "-天微科技4-",
+      "name": "-涛哥工作室4-",
       "type": 0,
       "url": "https://jx.yparse.com/index.php?url=",
       "ext": {
@@ -321,7 +321,7 @@
       }
     },
     {
-      "name": "-天微科技5-",
+      "name": "-涛哥工作室5-",
       "type": 0,
       "url": "https://jx.jsonplayer.com/player/?url=",
       "ext": {
@@ -331,7 +331,7 @@
       }
     },
     {
-      "name": "-天微科技6-",
+      "name": "-涛哥工作室6-",
       "type": 0,
       "url": "https://www.kkvip2022.com/vip/jiexi1/?url=",
       "ext": {
@@ -341,7 +341,7 @@
       }
     },
     {
-      "name": "-天微科技7-",
+      "name": "-涛哥工作室7-",
       "type": 0,
       "url": "https://jx.quankan.app/?url=",
       "ext": {
@@ -351,7 +351,7 @@
       }
     },
     {
-      "name": "-天微科技8-",
+      "name": "-涛哥工作室8-",
       "type": 0,
       "url": "https://jx.aidouer.net/?url=",
       "ext": {
