@@ -255,6 +255,8 @@ TVB明珠台,https://iptv.hiper25.com/Pearl/video.m3u8
 香港電台(RTHK 34),https://livedoc.cgtn.com/1000d/prog_index.m3u8
 香港卫视文旅,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 
+环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+
 地方特色,#genre#
 rRB-影视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8
 rRB-新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8
@@ -412,6 +414,16 @@ rRB-生活,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226526/index.m
 黑龙江少儿,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225979/index.m3u8
 
 涛哥电影,#genre#
+CHC动作电影,http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
+CHC家庭影院,http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
+CHC影迷电影,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D&ZJYD
+CHC影迷电影,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
+CHC动作电影, http://125.41.235.165:2000/rtp/225.1.4.208:1261
+CHC动作电影, http://125.46.133.147:9999/rtp/225.1.4.208:1261
+CHC高清电影, http://125.41.235.165:2000/rtp/225.1.4.207:1260
+CHC高清电影, http://125.46.133.147:9999/rtp/225.1.4.207:1260
+CHC家庭影院, http://125.41.235.165:2000/rtp/225.1.4.209:1262
+CHC家庭影院, http://125.46.133.147:9999/rtp/225.1.4.209:1262
 NewTV中国功夫,http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 NewTV东北热剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 NewTV军旅剧场,http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
