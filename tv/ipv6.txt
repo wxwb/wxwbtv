@@ -712,7 +712,7 @@ CCtv6影院代,http://hikvision.city:880/CCTV-6.m3u8
 斗鱼电影165,http://zzy789.xyz/douyu1.php?id=8705754
 斗鱼电影169,http://zzy789.xyz/douyu1.php?id=7528160
 
-体育直播,#genre#
+涛哥体育,#genre#
 体育直播4K-1,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 体育直播4K-2,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
 体育直播-1,http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
