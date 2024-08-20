@@ -1,0 +1,159 @@
+<!-- 
+	博客：qxnav.cn
+	作者：陌路
+	QQ：995982715
+	小白注意事项：免费版修改教程在 作者的博客/gitee里面！！
+	---------------------------------------------------------------------------------------------------------
+	7月18日更新：
+	1、优化图片暗箱 > 代码在路径 index.html 的第70、74行
+	2、新增旗下站点和友情链接的正序排列和倒序排列 > 代码在路径 /assets/js/index.js 的第121、124行
+	3、优化时间戳 > 建站时间修改路径 /assets/js/index.js 的第170行
+ -->
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+	<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
+	<meta name="applicable-device" content="pc, mobile">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="renderer" content="webkit">
+	<meta name="force-rendering" content="webkit">
+	<title>陌路个人主页</title>
+	<meta name="keywords" content="个人引导页,个人主页,个人介绍页,奇心科技">
+	<meta name="description" content="陌路的个人主页。">
+	<meta name="author" content="陌路">
+	<meta property="og:type" content="index">
+	<meta property="og:title" content="陌路个人主页 - 个人引导页">
+	<meta property="og:description" content="拟态UI设计是陌路原创的一款简约平滑开源的个人主页设计。">
+	<meta property="og:image" content="https://player.xfyun.club/img/nitai5.jpg">
+	<meta property="og:url" content="https://qxnav.cn/">
+	<link rel="shortcut icon" href="https://qxnav.cn/favicon.ico" type="image/x-icon">
+	<link rel="stylesheet" href="static/css/style.min.css">
+	<!--[if lt IE 10]>
+		<script>
+			alert("您正在使用的浏览器版本过低，为了您的最佳体验，请先升级浏览器。");
+			window.location.href="http://support.dmeng.net/upgrade-your-browser.html";
+		</script>
+	<![endif]-->
+</head>
+
+<body>
+	<div class="xf_load"></div>
+	<!-- seo标题 -->
+	<h1 class="xf_title">陌路 - 个人引导页</h1>
+	<div class="xf_above xf_shadow_out">
+		<div class="xf_vague xf_shadow_int"></div>
+		<div class="xf_introduce core">
+			<div class="xf_tx">
+				<!-- 质感效果勿动 -->
+				<img src="static/picture/overlay-tx.jpg">
+				<!-- 这里替换头像 -->
+				<img src="static/picture/molu.jpg" alt="头像">
+			</div>
+			<h3>陌路</h3>
+			<p class="text_1">凡是过往，皆为序章！</p>
+			<div class="xf_hr"></div>
+			<h2 class="xf_clock">21:57</h2>
+			<p class="xf_moon_week">
+				<span>05/01/</span>
+				<span>星期一</span>
+			</p>
+			<ul class="xf_icon_above">
+				<li class="xf_shadow_out"><a href="http://wpa.qq.com/msgrd?v=3&uin=995982715&site=qq&menu=yes" data-pic="./assets/upload/myQQImg.jpg" data-text="长按保存图片"><i></i></a></li>
+				<li class="xf_shadow_out"><a href="JavaScript:;"><i></i></a></li>
+				<li class="xf_shadow_out"><a class="xf-PicBlackbox" data-pic="./assets/upload/wx.jpg" data-text="长按保存图片"><i></i></a></li>
+			</ul>
+			<div class="wire"><span></span></div>
+		</div>
+	</div>
+	<div class="xf_home">
+		<div class="xf_content core">
+			<div class="xf_big_layout">
+				<div class="xf_left_box">
+					<div class="weather_and_xf_rest">
+						<div class="xf_weather xf_shadow_out">
+							<div class="xf_in_box_1 xf_shadow_int">
+								<h3 class="xf_city">吉安市</h3>
+								<h4 class="xf_high">25°C</h4>
+							</div>
+						</div>
+						<div class="xf_rest xf_shadow_out">
+							<h3>作息时间</h3>
+							<ul class="xf_in_box_2 xf_shadow_int xf_rest_time"></ul>
+						</div>
+					</div>
+				</div>
+				<div class="xf_right_box">
+					<div class="fortune_and_information">
+						<div class="xf_fortune xf_shadow_out">
+							<h3><span>个人技能：</span><i class="xf_star"></i></h3>
+							<ul class="xf_in_box_3 xf_shadow_out fortune"></ul>
+						</div>
+						<div class="xf_information xf_shadow_out">
+							<h3>
+								<img src="static/picture/information.png">
+								<span>简介</span>
+							</h3>
+							<div class="xf_in_box_3 xf_shadow_out">
+								<div class="jieshao">
+									<span>欢迎使用陌路拟态UI5.0个人引导页！</span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	<footer class="xf_footer content core">
+		<p>&copy; 2024 <a class="xf_copy" href="" rel="noopener noreferrer">陌路网络</a>&nbsp;已安全运行<strong class="days"></strong></p>
+		<p><img src="static/picture/icp.png" alt="icp" class="icpImg"><a href="http://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">浙ICP备2022032079号</a></p>
+		<p>本站主页 <a href="#" target="_blank" rel="noopener noreferrer">陌路</a></p>
+	</footer>
+	<div id="xf_top" class="xf_shadow_out iconfont icon-jiantou_liebiaoshouqi_o" style="display: none;"></div>
+	<script type="text/html" id="tpl-data">
+		{{each restTime}}
+			<li>{{$value.work}}<img src="{{$value.img}}"></li>
+		{{/each}}
+		{{each fortune}}
+			<li>{{$value.text}}：<span><em style="width: {{$value.num}}%;"></em></span></li>
+		{{/each}}
+		{{each siteInfo}}
+			<li class="xf_shadow_out">
+				<a href="{{$value.links}}" target="_blank" rel="noopener noreferrer">
+					<span>{{$value.name}}</span>
+					<img data-funlazy="{{$value.pic}}" alt="{{$value.name}}">
+				</a>
+				<p>{{$value.name}}</p>
+			</li>
+		{{/each}}
+		{{each friendInfo}}
+			<li class="xf_shadow_out small_box">
+				<a href="{{$value.links}}" target="_blank" rel="noopener noreferrer">
+					<img src="https://q2.qlogo.cn/headimg_dl?dst_uin={{$value.qq}}&spec=100" alt="{{$value.name}}" class="xf_shadow_out">
+					<div class="xf_father">
+						<h3>{{$value.name}}</h3>
+						<p>{{$value.sig}}</p>
+					</div>
+				</a>
+			</li>
+		{{/each}}
+	</script>
+	<script src="static/js/jquery.min.js"></script>
+	<script src="static/js/sweetalert.min.js"></script>
+	<!-- 如果上面外部js链接失效了，咱就删除上面两行代码换下面的本地路径 -->
+	<!-- <script src="assets/js/jquery.min.js"></script> -->
+	<!-- <script src="assets/js/sweetalert.min.js"></script> -->
+	<script src="static/js/xf-PictureBlackbox.min.js"></script>
+	<script src="static/js/template-web.js"></script>
+	<script src="static/js/funlazy.min.js"></script>
+	<script src="static/js/fireworks.js"></script>
+	<script src="static/js/index.js"></script>
+	<!-- 如果key 为空 则不显示播放器 - 网址：https://music.xfyun.club   key：606e5a8824639 -->
+	<div id="music" key="" api="https://music.xfyun.club"></div>
+	<script id="xplayer" src="static/js/player.js"></script>
+	<div style="display:none;"><a href="https://smalltool.github.io/">整站下载器</a></div>
+</body>
+
+</html>
