@@ -586,6 +586,37 @@ CHC家庭影院, http://125.41.235.165:2000/rtp/225.1.4.209:1262
 CHC家庭影院, http://125.46.133.147:9999/rtp/225.1.4.209:1262
 
 影院轮播,#genre#
+重温经典频道,http://live.dxms.top:80/dwy/cwjd.php
+经典剧场频道,http://live.dxms.top:80/dwy/jdjc.php
+经典宫庭频道,http://live.dxms.top:80/dwy/gtjc.php
+经典清剧频道,http://live.dxms.top:80/dwy/jdqj.php
+经典天龙频道,http://live.dxms.top:80/dwy/jdtl.php
+经典金庸频道,http://live.dxms.top:80/dwy/jyjc.php
+经典三国频道,http://live.dxms.top:80/dwy/jdsg.php
+经典回忆频道,http://live.dxms.top:80/dwy/hyyy.php
+
+香港经典,http://tc-tct.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
+国外大片,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.m3u8
+经典电影,http://tc-tct.douyucdn2.cn/dyliveflv1a/85894rmovieChow_2000p.m3u8
+生死狙击,http://tc-tct.douyucdn2.cn/dyliveflv1a/7439056rYiHdgWPW_2000.m3u8
+穿越火线1,http://tc-tct.douyucdn2.cn/dyliveflv1a/605964rzzgGEOZHr_2000.m3u8
+穿越火线2,http://tc-tct.douyucdn2.cn/dyliveflv1a/999rx47n2pp8pKD_2000.m3u8
+小品轮播,http://tc-tct.douyucdn2.cn/dyliveflv1a/10153463r0oBSmAG.m3u8
+游戏轮播1,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.m3u8
+游戏轮播2,http://tc-tct.douyucdn2.cn/dyliveflv1a/9662891rlaeIAP3A_2000.m3u8
+JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.m3u8
+周星驰,http://tc-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu_2000.m3u8
+跑跑卡丁车,http://tc-tct.douyucdn2.cn/dyliveflv1a/7722576rWHyhVf6Z_2000.m3u8
+CF手游,http://tc-tct.douyucdn2.cn/dyliveflv1a/868191rjy69PsEAz_2000.m3u8
+QQ飞车,http://tc-tct.douyucdn2.cn/dyliveflv1a/5040227raXQRnvWY_2000.m3u8
+游戏轮播,http://tc-tct.douyucdn2.cn/dyliveflv1a/522423rw7NgKaYl9_2000p.m3u8
+绝地求生,http://tc-tct.douyucdn2.cn/dyliveflv1a/100rPCLP_2000.m3u8
+DOTA2,http://tc-tct.douyucdn2.cn/dyliveflv1a/288016rlols5_2000.m3u8
+游戏频道2,http://tc-tct.douyucdn2.cn/dyliveflv1a/3226194r73pCQamR_2000.m3u8
+狼人杀,http://tc-tct.douyucdn2.cn/dyliveflv1a/4615959rUFUtiJ3v.m3u8
+CSGO,http://tc-tct.douyucdn2.cn/dyliveflv1a/668668rKGc0VsmNo.m3u8
+天涯明月刀,http://tc-tct.douyucdn2.cn/dyliveflv1a/447646rHZDeSGn5D_2000.m3u8
+
 电影_星爷,http://zy.otioi.cn/live/huya.php?token=8V1cJL3u&id=11342412
 电影_英叔,http://zy.otioi.cn/live/huya.php?token=8V1cJL3u&id=11342421
 电影_发哥,http://zy.otioi.cn/live/huya.php?token=8V1cJL3u&id=11342387
