@@ -573,9 +573,6 @@ NewTV超级电视剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.c
 超级综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 黑龙江影视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225973/index.m3u8
-CHC影迷电影,https://pi.0472.org/chc/ym.m3u8
-CHC动作电影,https://pi.0472.org/chc/dz.m3u8
-CHC家庭影院,https://pi.0472.org/chc/jt.m3u8
 CHC动作电影,http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
 CHC家庭影院,http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
 CHC影迷电影,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D&ZJYD
@@ -588,15 +585,6 @@ CHC家庭影院, http://125.41.235.165:2000/rtp/225.1.4.209:1262
 CHC家庭影院, http://125.46.133.147:9999/rtp/225.1.4.209:1262
 
 影院轮播,#genre#
-重温经典频道,http://live.dxms.top:80/dwy/cwjd.php
-经典剧场频道,http://live.dxms.top:80/dwy/jdjc.php
-经典宫庭频道,http://live.dxms.top:80/dwy/gtjc.php
-经典清剧频道,http://live.dxms.top:80/dwy/jdqj.php
-经典天龙频道,http://live.dxms.top:80/dwy/jdtl.php
-经典金庸频道,http://live.dxms.top:80/dwy/jyjc.php
-经典三国频道,http://live.dxms.top:80/dwy/jdsg.php
-经典回忆频道,http://live.dxms.top:80/dwy/hyyy.php
-
 香港经典,http://tc-tct.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
 国外大片,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.m3u8
 经典电影,http://tc-tct.douyucdn2.cn/dyliveflv1a/85894rmovieChow_2000p.m3u8
@@ -618,6 +606,14 @@ DOTA2,http://tc-tct.douyucdn2.cn/dyliveflv1a/288016rlols5_2000.m3u8
 狼人杀,http://tc-tct.douyucdn2.cn/dyliveflv1a/4615959rUFUtiJ3v.m3u8
 CSGO,http://tc-tct.douyucdn2.cn/dyliveflv1a/668668rKGc0VsmNo.m3u8
 天涯明月刀,http://tc-tct.douyucdn2.cn/dyliveflv1a/447646rHZDeSGn5D_2000.m3u8
+重温经典频道,http://live.dxms.top:80/dwy/cwjd.php
+经典剧场频道,http://live.dxms.top:80/dwy/jdjc.php
+经典宫庭频道,http://live.dxms.top:80/dwy/gtjc.php
+经典清剧频道,http://live.dxms.top:80/dwy/jdqj.php
+经典天龙频道,http://live.dxms.top:80/dwy/jdtl.php
+经典金庸频道,http://live.dxms.top:80/dwy/jyjc.php
+经典三国频道,http://live.dxms.top:80/dwy/jdsg.php
+经典回忆频道,http://live.dxms.top:80/dwy/hyyy.php
 
 电影_星爷,http://zy.otioi.cn/live/huya.php?token=8V1cJL3u&id=11342412
 电影_英叔,http://zy.otioi.cn/live/huya.php?token=8V1cJL3u&id=11342421
