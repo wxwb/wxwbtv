@@ -201,8 +201,14 @@ CCTV-17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 甘肃卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226522/index.m3u8
 
 中国港澳,#genre#
+凤凰中文,http://free.xiptv.x10.bz/kudou.php?id=121 
+凤凰资讯,http://free.xiptv.x10.bz/kudou.php?id=122 
+凤凰香港,http://free.xiptv.x10.bz/kudou.php?id=123
 凤凰资讯,http://wouu.net:9977/udp/239.93.0.118:2191
 凤凰中文,http://wouu.net:9977/udp/239.93.0.162:2192
+凤凰资讯,http://test.zapi.us.kg/?id=phtv-info
+凤凰资讯,P2p://generationnexxxt.com:19806/3f7b6ed02526445e89ce536992d04ef5
+凤凰香港,P2p://generationnexxxt.com:19806/51ed8623722a469f8caa15a0e12a6761
 凤凰中文,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8$浙江移动内网
 凤凰资讯,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8$浙江移动内网
 凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
