@@ -215,148 +215,18 @@ CCTV-17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 凤凰中文,https://test.zapi.us.kg/?id=phtv-cn
 凤凰香港,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
 凤凰香港,https://test.zapi.us.kg/?id=phtv-hk
-中视,https://test.zapi.us.kg/?id=ctv
-中视,http://8.138.7.223/tv/tw9.php?id=7
-台视,https://test.zapi.us.kg/?id=ttv
-华视,https://test.zapi.us.kg/?id=cts
-民视,https://test.zapi.us.kg/?id=ftv
-民视,http://8.138.7.223/tv/tw9.php?id=6
-民视台湾台,https://test.zapi.us.kg/?id=ftv-tw
-民视第一台,https://test.zapi.us.kg/?id=ftv-one
-纬来日本,https://test.zapi.us.kg/?id=videoland-japan
-纬来综合,https://test.zapi.us.kg/?id=videoland
-八大综合,https://test.zapi.us.kg/?id=gtv28
-八大第一,https://test.zapi.us.kg/?id=gtv27
-TVBS 精采台,https://test.zapi.us.kg/?id=tvbs-jc
-TVBS 欢乐台,https://test.zapi.us.kg/?id=tvbs-huanle
-三立台湾台,https://test.zapi.us.kg/?id=settv-taiwan
-三立综合台,https://test.zapi.us.kg/?id=settv-zonghe
-HOY 资讯台,https://test.zapi.us.kg/?id=hoy-info
-HOY TV,https://test.zapi.us.kg/?id=hoytv
-HOY国际财经,https://test.zapi.us.kg/?id=hoy-ibc
-ViuTV,https://test.zapi.us.kg/?id=viutv
-ViuTV6,https://test.zapi.us.kg/?id=viutv6
-天映频道,https://test.zapi.us.kg/?id=celestial
-天映经典,https://test.zapi.us.kg/?id=cccm
-星空卫视,https://test.zapi.us.kg/?id=star-xing-kong
-香港卫视,https://test.zapi.us.kg/?id=hks
-澳亚卫视,https://test.zapi.us.kg/?id=mastv
-澳门卫视,https://test.zapi.us.kg/?id=mstv
-澳门莲花卫视,https://test.zapi.us.kg/?id=lotustv
-澳门资讯,https://test.zapi.us.kg/?id=tdm-information
-澳视澳门,https://test.zapi.us.kg/?id=tdm
-HKC 18台,https://test.zapi.us.kg/?id=hkc18
-港台电视 31,https://test.zapi.us.kg/?id=rthk31
-港台电视 32,https://test.zapi.us.kg/?id=rthk32
-Now 财经台,https://test.zapi.us.kg/?id=now-finance
-Now 爆谷台,https://test.zapi.us.kg/?id=baogu-movies
-Now 星影台,https://test.zapi.us.kg/?id=now-baogu-superstars
-Now 新闻台,https://test.zapi.us.kg/?id=now-news
-Now 直播台,https://test.zapi.us.kg/?id=now-direct
-Now报价台,https://test.zapi.us.kg/?id=now-data
-Now jelli紫金国际台,https://test.zapi.us.kg/?id=now-jelli
-Now华剧台,https://test.zapi.us.kg/?id=now-chinese-drama
-NowViu剧集台,https://test.zapi.us.kg/?id=now-viu-drama
-Now Sports精选,https://test.zapi.us.kg/?id=now-sports-prime
-Now Sports 1,https://test.zapi.us.kg/?id=now-sports-1
-Now Sports 2,https://test.zapi.us.kg/?id=now-sports-2
-Now Sports 3,https://test.zapi.us.kg/?id=now-sports-3
-Now Sports 4,https://test.zapi.us.kg/?id=now-sports-4
-Now Sports 5,https://test.zapi.us.kg/?id=now-sports-5
-Now Sports 6,https://test.zapi.us.kg/?id=now-sports-6
-Now Sports 7,https://test.zapi.us.kg/?id=now-sports-7
-Now Sports Plus,https://test.zapi.us.kg/?id=now-sports-plus
-Now Sports 英超1,https://test.zapi.us.kg/?id=now-sports-premier-league1
-Now Sports 英超2,https://test.zapi.us.kg/?id=now-sports-premier-league2
-Now Sports 英超3,https://test.zapi.us.kg/?id=now-sports-premier-league3
-Now Sports 英超4,https://test.zapi.us.kg/?id=now-sports-premier-league4
-Now Sports 英超5,https://test.zapi.us.kg/?id=now-sports-premier-league5
-Now Sports 英超6,https://test.zapi.us.kg/?id=now-sports-premier-league6
-Now 668,https://test.zapi.us.kg/?id=now-668
-Now Golf 2,https://test.zapi.us.kg/?id=now-golf2
-Now Golf 3,https://test.zapi.us.kg/?id=now-golf3
-民视,https://test.zapi.us.kg/?id=ftv
-民视台湾台,https://test.zapi.us.kg/?id=ftv-tw
-民视第一台,https://test.zapi.us.kg/?id=ftv-one
-纬来日本,https://test.zapi.us.kg/?id=videoland-japan
-纬来综合,https://test.zapi.us.kg/?id=videoland
-八大综合,https://test.zapi.us.kg/?id=gtv28
-八大第一,https://test.zapi.us.kg/?id=gtv27
-TVBS 精采台,https://test.zapi.us.kg/?id=tvbs-jc
-TVBS 欢乐台,https://test.zapi.us.kg/?id=tvbs-huanle
-三立台湾台,https://test.zapi.us.kg/?id=settv-taiwan
-三立综合台,https://test.zapi.us.kg/?id=settv-zonghe
-台视,https://test.zapi.us.kg/?id=ttv
-东森超视,https://test.zapi.us.kg/?id=ebc-super
-东森综合台,https://test.zapi.us.kg/?id=ebc-ettv
-中视,https://test.zapi.us.kg/?id=ctv
-中视菁采台,https://test.zapi.us.kg/?id=bravo
-中天亚洲,https://test.zapi.us.kg/?id=cti-asia
-华视,https://test.zapi.us.kg/?id=cts
-LiveABC 互动英语频道,https://test.zapi.us.kg/?id=liveabc
-好消息,https://test.zapi.us.kg/?id=goodtv
-KLT-靖天国际台,https://test.zapi.us.kg/?id=jtgj
-ELTA综合台,https://test.zapi.us.kg/?id=elta-zonghe
-公视,https://test.zapi.us.kg/?id=pts
-公视3台,https://test.zapi.us.kg/?id=pts-3
-公视台语台,https://test.zapi.us.kg/?id=pts-ty
-靖天综合台,https://test.zapi.us.kg/?id=jtzh
-客家电视台,https://test.zapi.us.kg/?id=hakkatv
-大爱一台,https://test.zapi.us.kg/?id=daai1
-大爱二台,https://test.zapi.us.kg/?id=daai2
-ARIRANG 阿里郎频道,https://test.zapi.us.kg/?id=arirang
-中天新闻,https://test.zapi.us.kg/?id=cti-news
-TVBS 新闻台,https://test.zapi.us.kg/?id=tvbs-news
-TVBS HD,https://test.zapi.us.kg/?id=tvbs-hd
-东森新闻,https://test.zapi.us.kg/?id=ebc-news
-东森财经新闻,https://test.zapi.us.kg/?id=ebc-finance
-寰宇新闻台,https://test.zapi.us.kg/?id=global-news
-寰宇财经台,https://test.zapi.us.kg/?id=global-finance
-寰宇新闻台湾台,https://test.zapi.us.kg/?id=global-news-tw
-壹新闻 HD,https://test.zapi.us.kg/?id=nexttv
-三立新闻,https://test.zapi.us.kg/?id=settv-news
-三立iNews,https://test.zapi.us.kg/?id=settv-inews
-中视新闻,https://test.zapi.us.kg/?id=ctv-news
-非凡新闻,https://test.zapi.us.kg/?id=unique-business-news
-年代新闻,https://test.zapi.us.kg/?id=era-news
-民视新闻台,https://test.zapi.us.kg/?id=ftv-news
-台视新闻,https://test.zapi.us.kg/?id=ttv-news
-镜电视新闻台,https://test.zapi.us.kg/?id=mnews
-华视新闻,https://test.zapi.us.kg/?id=cts-news
-半岛国际新闻台,https://test.zapi.us.kg/?id=aljazeera
-SBN 全球财经台,https://test.zapi.us.kg/?id=sbn
-靖天资讯台,https://test.zapi.us.kg/?id=jtzx
-纬来电影台,https://test.zapi.us.kg/?id=videoland-movie
-纬来戏剧,https://test.zapi.us.kg/?id=videoland-drama
-龙祥电影台,https://test.zapi.us.kg/?id=lstime
-龙华电影台,https://test.zapi.us.kg/?id=ltv-movies
-龙华戏剧台,https://test.zapi.us.kg/?id=ltv-xiju
-龙华日韩台,https://test.zapi.us.kg/?id=ltv-rihan
-东森电影,https://test.zapi.us.kg/?id=ebc-movie
-东森洋片,https://test.zapi.us.kg/?id=ebc-emovie
-八大精彩台,https://test.zapi.us.kg/?id=gtv-jct
-八大戏剧,https://test.zapi.us.kg/?id=gtv-41
-八大娱乐,https://test.zapi.us.kg/?id=gtv-86
-八大综艺,https://test.zapi.us.kg/?id=grt
-采昌影剧台,https://test.zapi.us.kg/?id=caichang
-美亚电影台,https://test.zapi.us.kg/?id=meiah-movies
-猪哥亮歌厅秀,https://test.zapi.us.kg/?id=zglgtx
-民视综艺,https://test.zapi.us.kg/?id=ftv-reality
-民视影剧,https://test.zapi.us.kg/?id=ftv-drama
-三立戏剧台,https://test.zapi.us.kg/?id=settv-drama
-中视经典台,https://test.zapi.us.kg/?id=ctv-classic
-中天娱乐,https://test.zapi.us.kg/?id=cti-yule
-靖洋戏剧台,https://test.zapi.us.kg/?id=jyxj
-靖天映画,https://test.zapi.us.kg/?id=jtyh
-靖天电影台,https://test.zapi.us.kg/?id=jtdy
-靖天戏剧台,https://test.zapi.us.kg/?id=jtxjt
-韩国娱乐台 KMTV,https://test.zapi.us.kg/?id=kmtv
-公视戏剧,https://test.zapi.us.kg/?id=gsxj
-影迷数位纪实台,https://test.zapi.us.kg/?id=ymswjst
-影迷数字电影台,https://test.zapi.us.kg/?id=fans-cinema
-视纳华仁纪实频道,https://test.zapi.us.kg/?id=cnex
-MTV Live HD 频道,https://test.zapi.us.kg/?id=mtv
-ELTA 娱乐台,https://test.zapi.us.kg/?id=elta-ylt
+壹电视新闻台,P2p://generationnexxxt.com:19806/dc5cf9b6bd4a43aa973b9beea88e631b
+东森新闻台,P2p://generationnexxxt.com:19806/311e31668d704df7ade8a4d5e745d49b
+中天新闻台,P2p://generationnexxxt.com:19806/1180a44e6cef425e826c3e798f7f3ea9
+民视新闻台,P2p://generationnexxxt.com:19806/96f9b2974a86449f9a6f881b4e23ca03
+三立新闻台,P2p://generationnexxxt.com:19806/27c4d09b970a447dae2ef153650b7ac1
+TVBS新闻台,P2p://generationnexxxt.com:19806/53f80a10fb054d5ab0649a59980025a9
+中視,rtmp://f13h.mine.nu/sat/tv091
+台視,rtmp://f13h.mine.nu/sat/tv071
+民視,rtmp://f13h.mine.nu/sat/tv051
+中天新闻,http://dl.mytvzhibo.top/222.php?id=141
+中天新闻,http://ali.hlspull.yximgs.com/live/bf9f6cc6b226bc073480377430f8e78f.flv
+
 
 星空卫视频道,http://118.112.148.228:4022/rtp/239.93.0.156:2193
 星空卫视频道,http://118.112.148.228:4022/rtp/239.93.1.10:2193
