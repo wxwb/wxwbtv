@@ -201,10 +201,6 @@ CCTV-17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 甘肃卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226522/index.m3u8
 
 中国港澳,#genre#
-凤凰卫视,http://8.137.59.151:99/tui/haiou.php?id=121
-凤凰资讯,http://8.137.59.151:99/tui/haiou.php?id=122
-凤凰香港,http://8.137.59.151:99/tui/haiou.php?id=123
-中天新闻台,http://cdn.iptv8k.top/dl/jspd.php?id=1
 凤凰中文,http://free.xiptv.x10.bz/kudou.php?id=121 
 凤凰资讯,http://free.xiptv.x10.bz/kudou.php?id=122 
 凤凰香港,http://free.xiptv.x10.bz/kudou.php?id=123
@@ -219,6 +215,7 @@ CCTV-17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 凤凰中文,https://test.zapi.us.kg/?id=phtv-cn
 凤凰香港,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
 凤凰香港,https://test.zapi.us.kg/?id=phtv-hk
+中天新闻台,http://cdn.iptv8k.top/dl/jspd.php?id=1
 壹电视新闻台,P2p://generationnexxxt.com:19806/dc5cf9b6bd4a43aa973b9beea88e631b
 东森新闻台,P2p://generationnexxxt.com:19806/311e31668d704df7ade8a4d5e745d49b
 中天新闻台,P2p://generationnexxxt.com:19806/1180a44e6cef425e826c3e798f7f3ea9
