@@ -860,23 +860,6 @@ CCtv6影院代,http://hikvision.city:880/CCTV-6.m3u8
 五星体育,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
 劲爆体育,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
 
-涛哥游戏,#genre#
-跑跑卡丁车,http://tc-tct.douyucdn2.cn/dyliveflv1a/7722576rWHyhVf6Z_2000.m3u8
-CF手游,http://tc-tct.douyucdn2.cn/dyliveflv1a/868191rjy69PsEAz_2000.m3u8
-QQ飞车,http://tc-tct.douyucdn2.cn/dyliveflv1a/5040227raXQRnvWY_2000.m3u8
-游戏轮播,http://tc-tct.douyucdn2.cn/dyliveflv1a/522423rw7NgKaYl9_2000p.m3u8
-绝地求生,http://tc-tct.douyucdn2.cn/dyliveflv1a/100rPCLP_2000.m3u8
-DOTA2,http://tc-tct.douyucdn2.cn/dyliveflv1a/288016rlols5_2000.m3u8
-游戏频道2,http://tc-tct.douyucdn2.cn/dyliveflv1a/3226194r73pCQamR_2000.m3u8
-狼人杀,http://tc-tct.douyucdn2.cn/dyliveflv1a/4615959rUFUtiJ3v.m3u8
-CSGO,http://tc-tct.douyucdn2.cn/dyliveflv1a/668668rKGc0VsmNo.m3u8
-生死狙击,http://tc-tct.douyucdn2.cn/dyliveflv1a/7439056rYiHdgWPW_2000.m3u8
-穿越火线1,http://tc-tct.douyucdn2.cn/dyliveflv1a/605964rzzgGEOZHr_2000.m3u8
-穿越火线2,http://tc-tct.douyucdn2.cn/dyliveflv1a/999rx47n2pp8pKD_2000.m3u8
-游戏轮播1,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.m3u8
-游戏轮播2,http://tc-tct.douyucdn2.cn/dyliveflv1a/9662891rlaeIAP3A_2000.m3u8
-JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.m3u8
-
 高清3D,#genre#
 变形金刚1,https://vd3.bdstatic.com/mda-khb9j4g6c25biyqj/v1-cae/1080p/mda-khb9j4g6c25biyqj.mp4
 变形金刚UHD,https://vd3.bdstatic.com/mda-nd6k8tnavw6sj0a5/720p/h264_delogo/1649341231263414752/mda-nd6k8tnavw6sj0a5.mp4
