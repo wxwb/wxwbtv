@@ -206,32 +206,6 @@ CCTV-17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 
-BLOOMBERG,http://shuma004.chunfengyun.top:8080/live/34/hls.m3u8
-CINEMAWOR,http://shuma004.chunfengyun.top:8080/live/30/hls.m3u8
-CNBC,http://shuma004.chunfengyun.top:8080/live/102/hls.m3u8
-DWNEWS,http://shuma004.chunfengyun.top:8080/live/46/hls.m3u8
-ELTV生活,http://shuma004.chunfengyun.top:8080/live/56/hls.m3u8
-FESTIVAL,http://shuma004.chunfengyun.top:8080/live/83/hls.m3u8
-GOOD2,http://shuma004.chunfengyun.top:8080/live/99/hls.m3u8
-HISTORY,http://shuma004.chunfengyun.top:8080/live/27/hls.m3u8
-HITS,http://shuma004.chunfengyun.top:8080/live/28/hls.m3u8
-HakkaTV,http://shuma004.chunfengyun.top:8080/live/1/hls.m3u8
-KOREA,http://shuma004.chunfengyun.top:8080/live/52/hls.m3u8
-LIFETIME,http://shuma004.chunfengyun.top:8080/live/71/hls.m3u8
-LOVENATURE,http://shuma004.chunfengyun.top:8080/live/84/hls.m3u8
-LUXE,http://shuma004.chunfengyun.top:8080/live/86/hls.m3u8
-MCE,http://shuma004.chunfengyun.top:8080/live/98/hls.m3u8
-MTV,http://shuma004.chunfengyun.top:8080/live/25/hls.m3u8
-Nickelodeon,http://shuma004.chunfengyun.top:8080/live/12/hls.m3u8
-PETCLUB,http://shuma004.chunfengyun.top:8080/live/81/hls.m3u8
-ROCK,http://shuma004.chunfengyun.top:8080/live/70/hls.m3u8
-ROCKACTION,http://shuma004.chunfengyun.top:8080/live/94/hls.m3u8
-TECHSTORM,http://shuma004.chunfengyun.top:8080/live/80/hls.m3u8
-TV5MONDE,http://shuma004.chunfengyun.top:8080/live/9/hls.m3u8
-TVBS,http://shuma004.chunfengyun.top:8080/live/23/hls.m3u8
-TiTV,http://shuma004.chunfengyun.top:8080/live/2/hls.m3u8
-VOA,http://shuma004.chunfengyun.top:8080/live/45/hls.m3u8
-
 翡翠台,http://zsntlqj.xicp.net:8895/bysid/1.m3u8
 明珠台,http://zsntlqj.xicp.net:8896/bysid/2.m3u8
 TVB Plus,http://zsntlqj.xicp.net:8896/bysid/82.m3u8
