@@ -280,9 +280,6 @@ TVB Plus,http://zsntlqj.xicp.net:8896/bysid/82.m3u8
 香港34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 香港35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 
-中視,rtmp://f13h.mine.nu/sat/tv091
-台視,rtmp://f13h.mine.nu/sat/tv071
-民視,rtmp://f13h.mine.nu/sat/tv051
 中天新闻,http://dl.mytvzhibo.top/222.php?id=141
 中天新闻,http://ali.hlspull.yximgs.com/live/bf9f6cc6b226bc073480377430f8e78f.flv
 星空卫视频道,http://giwon.ddns.net:5555/udp/239.93.0.156:2193
