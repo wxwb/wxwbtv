@@ -480,7 +480,6 @@ CHC家庭影院, http://125.46.133.147:9999/rtp/225.1.4.209:1262
 金牌综艺,http://[2409:8087:1a01:df::4001]:80/TVOD/88888888/224/3221225525/main.m3u8
 金牌综艺,http://[2409:8087:74d9:21::6]:80/270000001128/9900000112/index.m3u8
 
-
 影院轮播,#genre#
 电影_星爷,http://mtw.so/6oKdhX
 电影_星爷,http://cfss.cc/cdn/hy/11342412.flv
@@ -934,7 +933,7 @@ CCTV16奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/tvbox6_com/322
 五星体育,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
 劲爆体育,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
 
-•游戏「赛事」,#genre#
+游戏赛事,#genre#
 「全球总决赛」英雄联盟 4K,http://live.iill.top/huya.php?id=18524915
 「全球总决赛」英雄联盟 4K,http://live.iill.top/bilibili.php?id=10
 「B站」CS 2,http://live.iill.top/bilibili.php?id=21622811
@@ -991,7 +990,7 @@ CCTV16奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/tvbox6_com/322
 「斗鱼」跑跑卡丁车,http://live.iill.top/douyu.php?id=7722576
 「斗鱼」跑跑卡丁车•手游,http://live.iill.top/douyu.php?id=6672862
 
-•埋堆「轮播」,#genre#
+埋堆轮播,#genre#
 埋堆堆 𝟙,http://live.iill.top/huya.php?id=23740156
 埋堆堆 𝟚,http://live.iill.top/huya.php?id=23749096
 埋堆堆 𝟛,http://live.iill.top/huya.php?id=23735126
@@ -1019,7 +1018,7 @@ CCTV16奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/tvbox6_com/322
 埋堆堆 𝟚𝟝,http://live.iill.top/huya.php?id=23734256
 埋堆堆 𝟚𝟞,http://live.iill.top/huya.php?id=23749083
 
-虎牙｜轮播,#genre#
+虎牙轮播,#genre#
 电影_贺岁,http://cfss.cc/cdn/hy/11601971.flv
 电影_玄幻,http://cfss.cc/cdn/hy/11342414.flv
 电影_谍战,http://cfss.cc/cdn/hy/21059585.flv
@@ -1166,7 +1165,7 @@ CCTV16奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/tvbox6_com/322
 有翡(试播),http://cfss.cc/cdn/hy/29580970.flv
 胡斐(试播),http://cfss.cc/cdn/hy/26355765.flv
 国产科幻(试播),http://cfss.cc/cdn/hy/11602077.flv
-斗鱼｜轮播,#genre#
+斗鱼轮播,#genre#
 林正英 1,http://zzy789.xyz/douyu1.php?id=7356023
 林正英 2,https://live.metshop.top/douyu/218859
 斗鱼频道,http://zzy789.xyz/douyu1.php?id=8770422
