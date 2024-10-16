@@ -1,0 +1,46 @@
+name: 更新
+
+on:
+  watch:
+    types: [started]
+  schedule:
+    - cron: 10 */6 * * *
+  workflow_dispatch:
+
+env:
+  TZ: Asia/Shanghai
+
+jobs:
+  Update:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+      with:
+          token: ${{ secrets.LIVELIST }}
+
+    - name: GetTime
+      run: echo "DATE=$(date +'%Y-%m-%d %H:%M:%S CST')" >> $GITHUB_ENV
+
+    - name: 更新
+      run: |
+        # 节目源
+        rm -f tv/66.txt && wget https://zb.2723212.xyz/tv/v6.txt -O tv/66.txt
+
+        # 整合源
+        rm -f tv/ipv6.txt && touch tv/ipv6.txt
+        cat tv/66.txt >> tv/ipv6.txt
+        cat tv/ys.txt >> tv/ipv6.txt
+        sed -i '/#EXTM3U/d' tv/ipv6.txt
+        sed -i '1i #EXTM3U' tv/ipv6.txt
+        sed -i '/^\s*$/d' tv/ipv6.txt
+
+    - name: Commit 和 push changes
+      run: |
+          git config --local user.email "actions@126.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          # 即使没有文件改变，也会提交一个空的提交
+          git commit --allow-empty -m "Scheduled workflow run"
+          git pull --rebase
+          git push -f
