@@ -29,9 +29,6 @@ jobs:
         rm -f tv/ipv6.txt && touch tv/ipv6.txt
         cat tv/66.txt >> tv/ipv6.txt
         cat tv/ys.txt >> tv/ipv6.txt
-        sed -i '/#EXTM3U/d' tv/ipv6.txt
-        sed -i '1i #EXTM3U' tv/ipv6.txt
-        sed -i '/^\s*$/d' tv/ipv6.txt
 
     - name: Commit 和 push changes
       run: |
