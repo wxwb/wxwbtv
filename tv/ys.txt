@@ -215,6 +215,10 @@ CCtv6影院代,http://hikvision.city:880/CCTV-6.m3u8
 超级电影ipv6,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 超级电影ipv6,http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000002120/index.m3u8?channel-id=ystenlive&Contentid=1000000004000002120&livemode=1&stbId=3
 超级电视ipv6,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+
+恐怖惊悚✔原,https://www.goodiptv.club/douyu/96577
+小黛兮影✔原,https://www.goodiptv.club/douyu/11553944
+豆瓣高分✔原,https://www.goodiptv.club/douyu/8770422
 大吉大利影院,https://pull.kktv8.com/livekktv/128600025.flv
 吃米滴虫✔原,https://www.goodiptv.club/douyu/315457
 冰冰经典✔原,https://www.goodiptv.club/douyu/74374
@@ -223,16 +227,13 @@ CCtv6影院代,http://hikvision.city:880/CCTV-6.m3u8
 麓山迷踪✔原,https://www.goodiptv.club/douyu/4505431
 瑶瑶恐怖✔原,https://www.goodiptv.club/douyu/2935323
 怡寶影院✔原,hhttps://www.goodiptv.club/douyu/434971
-小黛兮影✔原,https://www.goodiptv.club/douyu/11553944
 萌小鬼片✔原,https://www.goodiptv.club/douyu/3928
 神乐剧场✔原,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
 神乐剧院✔原,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
 神乐影剧✔原,https://www.goodiptv.club/douyu/122402
 可乐影院✔原,https://www.goodiptv.club/douyu/20415
 小宇60帧✔原,https://www.goodiptv.club/douyu/323876
-恐怖惊悚✔原,https://www.goodiptv.club/douyu/96577
 電影劇場✔原,https://www.goodiptv.club/douyu/7575350
-豆瓣高分✔原,https://www.goodiptv.club/douyu/8770422
 花卷陪看✔原,https://www.goodiptv.club/douyu/52787
 漫威剧情✔原,https://www.goodiptv.club/douyu/6140589
 霍格沃茨✔原,https://www.goodiptv.club/douyu/8814650
